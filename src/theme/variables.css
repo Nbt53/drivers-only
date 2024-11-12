@@ -1,0 +1,49 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url(../assets/fonts/BebasNeue-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url(../assets/fonts/BebasNeue-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay';
+    src: url(../assets/fonts/SFUIDisplay-Bold.ttf) format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay';
+    src: url(../assets/fonts/SFUIDisplay-Heavy.otf) format('opentype');
+    font-weight: 900; /* Heavy weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay';
+    src: url(../assets/fonts/SFUIDisplay-Medium.otf) format('opentype');
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay';
+    src: url(../assets/fonts/SFUIDisplay-Semibold.otf) format('opentype');
+    font-weight: 600; /* Semibold weight */
+    font-style: normal;
+}
+
+/* Example of setting a global font-family */
+body {
+    font-family: 'BebasNeue', sans-serif;
+}

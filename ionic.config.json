@@ -1,0 +1,7 @@
+{
+  "name": "drivers-only",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
